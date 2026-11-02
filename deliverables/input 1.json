@@ -1,0 +1,5 @@
+{
+  "poolName": "postgres-primary-pool",
+  "maxConnections": 5,
+  "warningThresholdPercent": 80
+}
